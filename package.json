@@ -1,0 +1,16 @@
+{
+  "name": "convo",
+  "scripts": {
+    "fractal": "fractal start --sync",
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "@frctl/fractal": "^1.1.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1"
+  }
+}
